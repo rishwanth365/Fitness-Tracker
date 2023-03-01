@@ -1,0 +1,162 @@
+body {
+    background-color: #f2f2f2;
+    font-family: 'Montserrat' , sans-serif;
+  }
+  
+  h1 {
+    font-size: 36px;
+    font-weight: 900;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 18px;
+    margin-bottom: 20px;
+    line-height: 2;
+    font-weight: 600;
+  }
+  
+  #title {
+    background-color: #79bad2;
+  }
+  
+  .container-fluid {
+    padding: 3% 15% 7%;
+  }
+  
+  .button {
+    margin: 0 10px;
+  }
+  
+  .title-justification {
+    margin: 100px 0;
+  }
+  
+  .title-heading {
+    color: #f2f2f2;
+    line-height: 1.5;
+    font-size: 2.5rem;
+  }
+  
+  .title-para {
+    color: #f2f2f2;
+    line-height: 1.5;
+    font-weight: 500;
+  }
+  
+  .girl-image {
+    width: 80%;
+    margin: 20px 0 0;
+    border-radius: 20px;
+  }
+  
+  .fitness-images {
+    margin: 40px 0;
+  }
+  
+  /* Home section */
+  
+  #home {
+    text-align: center;
+  }
+  
+  .home-heading {
+    font-weight: 800;
+    font-size: 3rem;
+    line-height: 1.5; 
+  }
+  
+  .home-para {
+    padding: 3% 15% 7%;
+  }
+  
+  .navbar-brand {
+      font-family: 'Ubuntu', sans-serif;
+      font-size: 2.5rem;
+  }
+  .lead {
+    font-size: 24px;
+    font-weight: 700;
+  }
+  .card {
+    border-radius: 10px;
+    
+  }
+  
+  /* SignUp & Login Form */
+  
+  .card-header {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+  
+  .form-control {
+    border-radius: 20px;
+    box-shadow: none;
+    border: none;
+    border-bottom: 2px solid #ddd;
+    background-color: #f2f2f2;
+  }
+  
+  .form-control:focus {
+    border-bottom: 2px solid #00a6ff;
+    box-shadow: none;
+    background-color: #f2f2f2;
+  }
+  
+  .form-bg-color {
+    background-color: #79bad2;
+  }
+  
+  .form-img {
+    padding: 0;
+  }
+  
+  .quotes {
+      margin-top: 150px;
+      color: #fff;
+  }
+  
+  .white-section {
+    text-align: center;
+  }
+  
+  /* Pricing section */
+  
+  #pricing {
+    padding: 3% 15% 7%;
+  }
+  
+  .pricing-heading {
+    font-weight: 800;
+    font-size: 3rem;
+    line-height: 1.5;
+  }
+  .pricing-text {
+    font-weight: 800;
+    font-size: 1.5rem;
+  }
+  
+  .pricing-info {
+    font-weight: 700;
+    margin: 50px 0;
+  }
+  
+  /* footer */
+  
+  #footer {
+    padding: 7% 15%;
+    background-color: #79bad2;
+  }
+  .fa-icons {
+    margin: 20px 15px;
+    color: #f2f2f2;
+  }
+  
+  .fa-icons:hover {
+    color: black;
+  }
+  
+  .copyright-info {
+    color: #f2f2f2;
+  }
