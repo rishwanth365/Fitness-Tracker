@@ -13,7 +13,7 @@ In the XAMPP Control Panel, click on the Start button next to Apache and MySQL t
 #Step 3: Open PhpMyAdmin
 Once Apache and MySQL are running, open your web browser and go to http://localhost/phpmyadmin/. This will open PhpMyAdmin, which is a web-based interface for managing MySQL databases.
 
-#Step 4: Create a new database
+#Step 4: Create a new database in test
 In PhpMyAdmin, click on the New button on the left-hand side of the screen. This will open a form where you can enter the details of your new database.
 
 Enter a name for your database in the Database name field, and select utf8_general_ci as the collation. Leave the other settings as they are, and click on the Create button to create your new database.
@@ -26,17 +26,21 @@ Enter registration as the name of your table, and set the number of columns to 7
 #Step 6: Define table columns
 In the Structure tab, define the columns of your registration table using the following details:
 
-Column Name	Type	Length/Values	Attributes
-id	int		Primary, AI
-name	varchar	50	
-email	varchar	50	
-password	varchar	50	
-age	int		
-dob	varchar	20	
-contact	varchar	20	
+ColumnName	Type	  Length/Values	 Attributes
+id	         int		                Primary, AI
+name	       varchar	   50	
+email	       varchar	   50	
+password	   varchar	   50	
+age	         int		
+dob	         varchar	   20	
+contact	     varchar	   20	
+
 Click on the Save button to save your table.
 
 #Step 7: Add data to your table
 In the Insert tab, you can add data to your registration table. Enter the values for each column and click on the Go button to add a new row of data to your table.
 
 Now you can review my Project :)
+
+This Should End Up Like This
+![alt text](images/registration table structure.png)
