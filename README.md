@@ -31,7 +31,7 @@ In the Structure tab, define the columns of your registration table using the fo
 Click on the Save button to save your table.
 
 <h2>Step 7: Add data to your table</h2>
-In the Insert tab, you can add data to your registration table. Enter the values for each column and click on the Go button to add a new row of data to your table.
+To add Data in it you need to open register.html file as http://localhost/folder_name/register.html
 
 
 This Should End Up Like This
