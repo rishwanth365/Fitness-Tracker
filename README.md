@@ -43,4 +43,4 @@ In the Insert tab, you can add data to your registration table. Enter the values
 Now you can review my Project :)
 
 This Should End Up Like This
-![alt text](images/registration table structure.png)
+![alt text](assests/images/registration table structure.png)
