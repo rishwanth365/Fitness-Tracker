@@ -26,14 +26,7 @@ Enter registration as the name of your table, and set the number of columns to 7
 <h2>Step 6: Define table columns</h2>
 In the Structure tab, define the columns of your registration table using the following details:
 
-ColumnName	Type	  Length/Values	 Attributes
-id	         int		                Primary, AI
-name	       varchar	   50	
-email	       varchar	   50	
-password	   varchar	   50	
-age	         int		
-dob	         varchar	   20	
-contact	     varchar	   20	
+<img src="assets/images/registration table.png" alt="table image">
 
 Click on the Save button to save your table.
 
@@ -42,7 +35,7 @@ In the Insert tab, you can add data to your registration table. Enter the values
 
 
 This Should End Up Like This
-<img src="assets/images/registration table structure.png" alt="an image">
+<img src="assets/images/registration table structure.png" alt="table strcture image">
 
 
 Now you can review my Project :)
