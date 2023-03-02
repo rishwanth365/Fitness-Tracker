@@ -36,7 +36,9 @@ To add Data in it you need to open register.html file as http://localhost/folder
 
 This Should End Up Like This
 <img src="assets/images/registration table structure.png" alt="table strcture image">
-
-
+<img src="assets/images/index.png">
+<img src="assets/images/register.png">
+<img src="assets/images/login.png">
+<img src="assets/images/profile.png">
 Now you can review my Project :)
 
