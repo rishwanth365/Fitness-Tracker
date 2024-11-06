@@ -1,6 +1,8 @@
 <h1>Using PhpMyAdmin to create a MySQL database and registration table with XAMPP</h1>
 In this guide, we will walk you through the process of creating a MySQL database and a registration table using PhpMyAdmin, which is a free and open-source tool for managing MySQL databases. We will be using XAMPP, which is a free and open-source cross-platform web server solution stack package that includes Apache, MySQL, PHP, and Perl.
 
+Feel free to explore it here: [Fitness-Tracker Website](https://rishwanth365.github.io/Fitness-Tracker/)
+
 <h2>Prerequisites</h2>
 Before we begin, ensure that you have installed XAMPP on your Windows machine.
 
@@ -34,11 +36,11 @@ Click on the Save button to save your table.
 To add Data in it you need to open register.html file as http://localhost/folder_name/register.html
 
 
-This Should End Up Like This
+<h4>This Should End Up Like This
 <img src="assets/images/registration table structure.png" alt="table strcture image">
 <img src="assets/images/index.png">
 <img src="assets/images/register.png">
 <img src="assets/images/login.png">
 <img src="assets/images/profile.png">
-Now you can review my Project :)
+Now you can use my Project :)
 
